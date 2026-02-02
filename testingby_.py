@@ -160,7 +160,7 @@ with tabs[4]:
 
     st.subheader("🖼️ Image Generation")
     st.write("Powered by nano banana 🍌")
-
+    st.message("Sorry this feature isn't available for free versions")
     # prompt = st.text_area("Enter image description", key="image_prompt")
 
     # if st.button("🎨 Generate Image", key="generate_image_btn") and prompt:
